@@ -4,8 +4,11 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
-    public function index(): string
+    public function index()
     {
-        return view('front/principal');
+        echo view('front/head');
+        echo view('front/navbar');
+        echo view('front/heroSection');
+        echo view('front/footer');
     }
 }
