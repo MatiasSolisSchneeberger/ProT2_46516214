@@ -24,9 +24,3 @@
         </div>
     </div>
 </nav>
-
-<style>
-    .logo {
-        height: 40px;
-    }
-</style>
