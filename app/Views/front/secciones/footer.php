@@ -20,7 +20,6 @@
             <li class="nav-item mb-1"><a href="<?php echo base_url('acerca-de'); ?>" class="nav-link p-0 text-body-secondary">Acerca de Nosotros</a></li>
             <li class="nav-item mb-1"><a href="<?php echo base_url('iniciar-sesion'); ?>" class="nav-link p-0 text-body-secondary">Iniciar Sesión</a></li>
             <li class="nav-item mb-1"><a href="<?php echo base_url('registrarse'); ?>" class="nav-link p-0 text-body-secondary">Registrarse</a></li>
-            <li class="nav-item mb-1"><a href="<?php echo base_url('preguntas-frecuentes'); ?>" class="nav-link p-0 text-body-secondary">Preguntas Frecuentes</a></li>
         </ul>
     </div>
 
