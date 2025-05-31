@@ -64,36 +64,60 @@
 					<div class="accordion-item">
 						<h2 class="accordion-header" id="headingOne">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-								Accordion Item #1
+								¿El iPhone 16 Pro incluye cargador en la caja?
 							</button>
 						</h2>
 						<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+								No, el iPhone 16 Pro no incluye cargador en la caja. Solo viene con un cable USB-C a Lightning. Esto es parte de la iniciativa de Apple para reducir el impacto ambiental. Si necesitas un cargador, puedes adquirirlo por separado o usar cualquier cargador USB-C compatible.
 							</div>
 						</div>
 					</div>
 					<div class="accordion-item">
 						<h2 class="accordion-header" id="headingTwo">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								Accordion Item #2
+								¿Qué tipo de garantía incluye el producto?
 							</button>
 						</h2>
 						<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+								El iPhone 16 Pro incluye una garantía estándar de 1 año contra defectos de fabricación. Esta garantía cubre problemas de hardware y software que no sean causados por el usuario. Además, puedes extender la garantía con AppleCare+ por hasta 2 años adicionales, lo que incluye cobertura para daños accidentales.
 							</div>
 						</div>
 					</div>
 					<div class="accordion-item">
 						<h2 class="accordion-header" id="headingThree">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-								Accordion Item #3
+								¿El iPhone 16 Pro es resistente al agua?
 							</button>
 						</h2>
 						<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+								Sí, el iPhone 16 Pro tiene una clasificación IP68, lo que significa que es resistente al agua y al polvo. Puede sumergirse hasta 6 metros de profundidad durante 30 minutos. Sin embargo, es importante mencionar que la garantía no cubre daños por agua, por lo que se recomienda tener precaución al exponer el dispositivo al agua.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="headingFour">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+								¿Qué incluye el paquete de compra?
+							</button>
+						</h2>
+						<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+							<div class="accordion-body">
+								El paquete incluye: iPhone 16 Pro, cable USB-C a Lightning, documentación básica, tarjeta SIM (si aplica), y un clip para extraer la tarjeta SIM. No incluye cargador, auriculares ni funda protectora. Todos estos accesorios se pueden adquirir por separado.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="headingFive">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+								¿Cuánto tiempo tarda en cargar completamente la batería?
+							</button>
+						</h2>
+						<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+							<div class="accordion-body">
+								Con un cargador de 20W o superior, el iPhone 16 Pro puede cargarse hasta un 50% en aproximadamente 30 minutos. Una carga completa tarda aproximadamente 1 hora y 30 minutos. El dispositivo también es compatible con carga inalámbrica MagSafe y Qi, aunque estos métodos son más lentos que la carga por cable.
 							</div>
 						</div>
 					</div>
