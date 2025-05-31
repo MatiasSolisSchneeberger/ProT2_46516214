@@ -82,7 +82,7 @@ El proyecto cuenta con un video demostrativo de menos de 5 minutos explicando:
 
 ## 🔗 Enlaces
 
-- [Video Explicativo](https://github.com/usuarioalumno/ProT1_23111111) *(Ejemplo)*
+- [Video Explicativo]() <!-- link del video -->
 - [Repositorio actual – Tramo 2](https://github.com/MatiasSolisSchneeberger/ProT2_46516214)
 
 ---
