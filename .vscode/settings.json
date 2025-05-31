@@ -1,0 +1,15 @@
+{
+    "spellright.language": [
+        "en",
+        "es"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "php"
+    ],
+    "cSpell.ignoreWords": [
+        "arialabel"
+    ]
+}
