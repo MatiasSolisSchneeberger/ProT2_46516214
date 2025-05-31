@@ -26,7 +26,6 @@ class Home extends BaseController
         echo view('front/componentes/head');
         echo view('front/secciones/navbar');
         echo view('front/secciones/productoPresentacion');
-        echo view('front/secciones/Q&A');
         echo view('front/secciones/productos');
         echo view('front/secciones/footer');
     }

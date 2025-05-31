@@ -11,5 +11,10 @@
     ],
     "cSpell.ignoreWords": [
         "arialabel"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#382C08",
+        "titleBar.activeBackground": "#4F3E0B",
+        "titleBar.activeForeground": "#FDF9EF"
+    }
 }
