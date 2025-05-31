@@ -8,8 +8,12 @@
     <div class="col-lg-6 mx-auto">
         <p class="lead mb-4">Descubre productos únicos, precios increíbles y envíos rápidos. Tu nueva tienda online favorita está aquí.</p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-            <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Ver productos</button>
-            <button type="button" class="btn btn-secondary btn-lg px-4">Conocenos</button>
+            <a href="<?php base_url("/productos") ?>">
+                <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Ver productos</button>
+            </a>
+            <a href="<?php base_url("/sobre-nosotros") ?>">
+                <button type="button" class="btn btn-secondary btn-lg px-4">Conocenos</button>
+            </a>
         </div>
     </div>
 </section>
