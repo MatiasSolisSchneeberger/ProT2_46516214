@@ -16,10 +16,10 @@
         <ul class="nav flex-column">
             <li class="nav-item mb-1"><a href="<?php echo base_url('/'); ?>" class="nav-link p-0 text-body-secondary">Inicio</a></li>
             <li class="nav-item mb-1"><a href="<?php echo base_url('productos'); ?>" class="nav-link p-0 text-body-secondary">Productos</a></li>
-            <li class="nav-item mb-1"><a href="<?php echo base_url('producto'); ?>" class="nav-link p-0 text-body-secondary">Detalle de Producto</a></li>
-            <li class="nav-item mb-1"><a href="<?php echo base_url('acerca-de'); ?>" class="nav-link p-0 text-body-secondary">Acerca de Nosotros</a></li>
-            <li class="nav-item mb-1"><a href="<?php echo base_url('iniciar-sesion'); ?>" class="nav-link p-0 text-body-secondary">Iniciar Sesión</a></li>
+            <li class="nav-item mb-1"><a href="<?php echo base_url('sobre-nosotros'); ?>" class="nav-link p-0 text-body-secondary">Sobre Nosotros</a></li>
+            <li class="nav-item mb-1"><a href="<?php echo base_url('acerca-de'); ?>" class="nav-link p-0 text-body-secondary">Acerca De</a></li>
             <li class="nav-item mb-1"><a href="<?php echo base_url('registrarse'); ?>" class="nav-link p-0 text-body-secondary">Registrarse</a></li>
+            <li class="nav-item mb-1"><a href="<?php echo base_url('iniciar-sesion'); ?>" class="nav-link p-0 text-body-secondary">Iniciar Sesión</a></li>
         </ul>
     </div>
 
