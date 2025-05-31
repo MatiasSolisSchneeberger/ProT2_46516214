@@ -37,9 +37,8 @@
 }
 
 .QA-seccion {
-	padding: 24px 0px;
+	padding-top: 24px;
 }
-
 
 @media (width >= 40rem) {
 	.product-container {

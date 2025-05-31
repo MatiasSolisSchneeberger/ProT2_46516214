@@ -32,7 +32,7 @@
 			<header>
 				<h1>Apple iPhone 16 Pro (128 Gb) Nuevo - Titanio Negro - Liberad
 				</h1>
-				<h2 class="product-info__price">$ 1.426.582</h2>
+				<h3 class="product-info__price">$ 1.426.582</h3>
 			</header>
 			<main>
 				<p>
