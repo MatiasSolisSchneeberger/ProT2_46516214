@@ -13,11 +13,18 @@ Este proyecto forma parte de la **Tarea Integradora del Tramo 2** de la materia 
 
 El sitio contiene al menos 5 páginas HTML enlazadas entre sí:
 
-- `index.html` – Página principal, incluye un carrusel con imágenes destacadas.
-- `quienes_somos.html` – Presentación de integrantes de la empresa mediante tarjetas (cards).
-- `acerca_de.html` – Información de la empresa, incluyendo ubicación y datos de contacto.
-- `registro.html` – Formulario de registro con campos básicos.
-- `login.html` – Formulario de inicio de sesión.
+- `inicio` – Página principal con un **HeroSection** que presenta brevemente a la empresa, seguido de un **catálogo visual de productos**. También puede incluir un carrusel para destacar promociones o novedades.
+
+- `productos` – Página que presenta un **listado completo de productos** disponibles en la tienda. Utiliza tarjetas (cards) para organizar la información de forma responsiva.
+
+- `acerca de` – Página con información sobre la **empresa**, qué comercializa o produce, su **ubicación geográfica** (incluyendo un mapa), y datos de contacto como dirección, teléfono o correo electrónico.
+
+- `quiénes somos` – Página dedicada a presentar al **equipo de trabajo o fundadores** de la empresa. Utiliza **cards** con imágenes y descripciones para cada persona.
+
+- `registro` – Página con un **formulario de registro de usuario**, con disposición horizontal, que incluye campos típicos como nombre, email, contraseña, etc.
+
+- `login` – Página con un **formulario de inicio de sesión** que valida usuario y contraseña. Esta funcionalidad tiene conexión con el backend implementado con CodeIgniter.
+
 
 ## 🎨 Características implementadas
 
@@ -44,7 +51,7 @@ El sitio contiene al menos 5 páginas HTML enlazadas entre sí:
 ProT2_46516214/
 ├── app/
 │ ├── Config/
-│ │ ├── App.php # Cambio la URL a http://localhost/{Nombre del Repositorio}
+│ │ ├── App.php # Configura la URL base del proyecto
 │ │ └── Routes.php # Agrego las sub-páginas
 │ ├── Controllers/
 │ │ └── Home.php # Agrego la estructura de las subpaginas
@@ -61,7 +68,7 @@ ProT2_46516214/
 │ │ └── personal/ # Fotos del equipo humano de la empresa
 │ └── js/
 │   ├── [Archivos de bootstrap]
-│   └── theme.js # Controlador de tema claro y oscuro
+│   └── theme.js # Script para cambiar entre tema claro y oscuro
 └── public/
   └── favicon.png #logo de la pagina
 ```
